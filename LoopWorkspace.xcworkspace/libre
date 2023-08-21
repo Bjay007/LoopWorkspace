@@ -1,0 +1,4 @@
+cd ~
+mkdir Code && cd Code
+git clone --branch=dev --recurse-submodules https://github.com/LoopKit/LoopWorkspace
+cd LoopWorkspace
