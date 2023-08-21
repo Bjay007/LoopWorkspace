@@ -1,0 +1,2 @@
+cd ~/Downloads
+mv GlucoseFromRaw.swift ~/Code/LoopWorkspace/LibreTransmitter/LibreSensor/GlucoseAlgorithm/GlucoseFromRaw.swift
